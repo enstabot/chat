@@ -1,0 +1,38 @@
+[
+  {
+    "id": "3708937d-5852-41bb-86a2-47b1935d4918",
+    "data": [
+      {
+        "text": "cursus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518031447
+  },
+  {
+    "id": "3252f951-2044-4166-b0c9-9eb6f0f40a9a",
+    "data": [
+      {
+        "text": "formation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518031447
+  },
+  {
+    "id": "e2617fe8-ac4d-4bab-b595-0570d3f42c80",
+    "data": [
+      {
+        "text": "Quelle formation offre l\u0027ENSTAB?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518031447
+  }
+]

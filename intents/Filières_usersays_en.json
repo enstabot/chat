@@ -1,0 +1,26 @@
+[
+  {
+    "id": "60e3beab-d2de-4f07-9445-6b42d8d6a119",
+    "data": [
+      {
+        "text": "filières",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518031761
+  },
+  {
+    "id": "73e87b82-966e-4fd3-bb44-569ac0599ab7",
+    "data": [
+      {
+        "text": "Quelles sont les trois filières à l\u0027ENSTAB?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518031761
+  }
+]

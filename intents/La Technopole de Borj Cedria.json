@@ -1,0 +1,37 @@
+{
+  "id": "e3d0b5db-e524-4a35-96ca-3e34d26a9922",
+  "name": "La Technopole de Borj Cedria",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "249390b0-f3d3-4a79-a555-06ff9d480bbb",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Située à une trentaine de km au sud de Tunis, la Technopole de Borj Cedria d’une superficie de 90 hectares accueille le campus universitaire formé par l’Ecole Nationale des Sciences et Technologies Avancées (ENSTAB), l’Institut Supérieur des Sciences et Technologies de l’Environnement (ISSTE), l’Institut Supérieur des Technologies de l’Information et de Communication (ISTIC) et comporte aussi les centres de recherches : Centre de Biotechnologies des Eaux, Centre National de Recherche en Sciences des Matériaux ainsi qu’une Pépinière d’entreprises et une zone de production aménagée. On y trouve aussi un restaurant universitaire et prochainement un complexe sportif."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518032836,
+  "fallbackIntent": false,
+  "events": []
+}

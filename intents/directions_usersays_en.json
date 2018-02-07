@@ -1,0 +1,26 @@
+[
+  {
+    "id": "40e20caf-7bfe-46f8-95fd-017b32446bfc",
+    "data": [
+      {
+        "text": "directions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518032967
+  },
+  {
+    "id": "43239a26-def3-40ed-89fd-6d16feaa9283",
+    "data": [
+      {
+        "text": "Comment se rendre à l\u0027ENSTAB?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518032967
+  }
+]

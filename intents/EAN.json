@@ -1,0 +1,29 @@
+{
+  "id": "f8fd3b53-7a84-4282-9269-124bba23657c",
+  "name": "EAN",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "C’est une filière multidisciplinaire couvrant les domaines de la conception et la fabrication des systèmes micro-électroniques, des Micro-Electro-Mechanical Systems (MEMS). Cette spécialité vise une solide formation en électricité, électronique voire électronique des systèmes embarqués, électronique Hautes fréquences . L’objectif est de former des ingénieurs de haut niveau, qui seront amenés à concevoir, piloter et optimiser des systèmes micro-électronique."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518031851,
+  "fallbackIntent": false,
+  "events": []
+}

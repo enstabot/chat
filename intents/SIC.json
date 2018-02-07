@@ -1,0 +1,28 @@
+{
+  "id": "9147628d-713f-4e0a-95e9-127a51413ee1",
+  "name": "SIC",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Cette filière est concernée par l’optimisation des moyens de conception et de production industrielle, la maîtrise des techniques de l’automatisation et le développement de systèmes industriels. Ayant acquis des connaissances fondamentales dans les sciences et techniques de l’ingénieur et les sciences économiques et sociales, les ingénieurs formés pourront s\u0027intégrer facilement dans les domaines suivants: production manufacturière, services, bureaux d’études, banques, direction d’entreprises, recherche et développement, maintenance, qualité, sécurité, systèmes d’information..."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518031950,
+  "fallbackIntent": false,
+  "events": []
+}

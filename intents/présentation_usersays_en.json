@@ -1,0 +1,47 @@
+[
+  {
+    "id": "0bf8cbcc-f5ef-4f1b-af0e-d135fa1501f3",
+    "data": [
+      {
+        "text": "ENSTAB",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "88563bdc-54b2-4764-9d50-de2166a0e4ce",
+    "data": [
+      {
+        "text": "Qu\u0027est ce que l\u0027ENSTAB",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0d267328-b16a-45b0-88f4-e89a9f30b47b",
+    "data": [
+      {
+        "text": "je veux une présentation de l\u0027ENSTAB",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c509e021-a0c7-4aa6-bbc5-43c3b64eee49",
+    "data": [
+      {
+        "text": "présentation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518031115
+  }
+]

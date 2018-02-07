@@ -1,0 +1,37 @@
+{
+  "id": "b7776503-972a-485d-9ec2-192fe04b6c8a",
+  "name": "Formation",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Outre la formation fondamentale basée sur la maîtrise des sciences physiques, des mathématiques et de l’informatique, les élèves ingénieurs auront une solide formation qui intègre les derniers apports des nouvelles technologies. Ces enseignements scientifiques sont complétés par une connaissance approfondie de la culture d’entreprise. La formation garantit principalement l’acquisition des compétences pour l’analyse, la conception et l’implémentation dans les domaines logiciels et matériels se rapportant aux technologies avancées.",
+            "Un tronc commun pour une formation scientifique de base suivie par trois filières dont l’objectif est l’acquisition de connaissances dans les disciplines fondamentales des sciences de l’ingénieur. Les cours complémentaires dispensés dans ce tronc commun auront pour objectif de consolider leur culture linguistique et de leur ouvrir les horizons sur le monde du travail et de l’entreprise. A la fin de chaque année d’étude, les élèves effectueront des stages en entreprises pour se familiariser avec le monde socio économique de la production."
+          ]
+        },
+        {
+          "type": 4,
+          "lang": "en",
+          "payload": {}
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518031447,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,54 @@
+[
+  {
+    "id": "30be17db-6ffd-49ec-abab-547508f5fdb5",
+    "data": [
+      {
+        "text": "enstab",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "da173a85-d1ff-4d68-8dd9-caa3c3857e08",
+    "data": [
+      {
+        "text": "technopole",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "681de388-ffc5-44c8-b613-42f4de282c4d",
+    "data": [
+      {
+        "text": "localisation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518032836
+  },
+  {
+    "id": "8886cb5a-5681-4dac-a392-21a945d4df6b",
+    "data": [
+      {
+        "text": "La",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " Technopole de Borj Cedria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518032836
+  }
+]

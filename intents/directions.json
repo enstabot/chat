@@ -1,0 +1,28 @@
+{
+  "id": "18d4bc6c-edda-4c38-b2af-ce746cd1393a",
+  "name": "directions",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Borj Cedria se trouve sur la ligne ferroviaire Tunis sud (Gare de Tunis – Borj Cedria). L’ENSTAB se trouve à 1800m de la gare Erriadh, des bus font la navette entre le campus universitaire et la gare."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518032967,
+  "fallbackIntent": false,
+  "events": []
+}

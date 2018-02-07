@@ -1,0 +1,28 @@
+{
+  "id": "fe64218f-c59a-4bfd-aebb-5799bebc8535",
+  "name": "Filières",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Les trois filières sont: Electroniques Avancés et Nanotechnologies (EAN), Systèmes Industriels et Compétitivité (SIC) et Systèmes Energétiques et Technologies Propres (SETP)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518031761,
+  "fallbackIntent": false,
+  "events": []
+}

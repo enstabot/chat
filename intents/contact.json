@@ -1,0 +1,28 @@
+{
+  "id": "ab91215a-400b-47da-bca9-e20bbf060cbc",
+  "name": "contact",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "ensta-b.dir@ensta-b.rnu.tn - ensta-b.sg@ensta-b.rnu.tn"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518033263,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "37f4256e-07fd-4b0e-a97c-2bca573b94a3",
+    "data": [
+      {
+        "text": "EAN",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1518031851
+  },
+  {
+    "id": "f106d6d5-6a77-4865-afa2-cd454dcaba34",
+    "data": [
+      {
+        "text": "Electroniques Avancés et Nanotechnologies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518031851
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "d62ec9bd-17ec-414a-b85f-66c39337e05f",
+    "data": [
+      {
+        "text": "Systèmes Energétiques et Technologies Propres",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518032672
+  },
+  {
+    "id": "257f64c1-8fc2-4aae-9554-38c79be7062b",
+    "data": [
+      {
+        "text": "SETP",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518032672
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "id": "9cb06a1c-c941-4d01-8751-7a1db67b8a09",
+  "name": "présentation",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "L’Ecole Nationale des Sciences et Technologies Avancées à Borj Cedria (ENSTAB) a pour but la formation des ingénieurs polyvalents, avec de solides compétences pluridisciplinaires dans le domaine des Technologies Avancées. C’est une école d’ingénieurs qui s’intègre dans le projet Tuniso-Japonais Med Campus dont un des partenaires est la prestigieuse université japonaise de Tsukuba. Les ingénieurs de l’ENSTAB seront capables de s’insérer dans de nombreux secteurs industriels de pointe en Tunisie ou à l’étranger (aéronautique, télécommunications, électronique, automobile...)."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518031115,
+  "fallbackIntent": false,
+  "events": []
+}

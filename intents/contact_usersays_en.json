@@ -1,0 +1,38 @@
+[
+  {
+    "id": "32771430-9cf5-478f-a594-ec6da9a8b9cf",
+    "data": [
+      {
+        "text": "email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518033263
+  },
+  {
+    "id": "a6ebc10e-f94d-4604-96b7-082df9952c15",
+    "data": [
+      {
+        "text": "contacts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518033263
+  },
+  {
+    "id": "1aad4387-1175-4391-83ab-d4d5f17bee5c",
+    "data": [
+      {
+        "text": "contact",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518033263
+  }
+]

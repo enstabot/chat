@@ -1,0 +1,28 @@
+{
+  "id": "918f4660-ed74-4a02-bafd-bbee87f88ece",
+  "name": "SETP",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "C’est une filière multidisciplinaire couvrant les domaines de production, transport et utilisation des énergies conventionnelles et renouvelables. Cette spécialité vise une solide formation en électricité, électronique, transfert de Chaleur et de Masse, froid industriel et climatisation, maîtrise de l\u0027énergie et énergies renouvelables. L’objectif est de former des ingénieurs de haut niveau, qui seront amenés à concevoir, piloter et optimiser des systèmes et réseaux énergétiques intelligents dans des installations énergétiques traditionnelles et énergétiques renouvelables (éolien, solaire photovoltaïque et thermique, géothermie, biomasse)."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518032672,
+  "fallbackIntent": false,
+  "events": []
+}
